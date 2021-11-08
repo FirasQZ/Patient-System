@@ -18,6 +18,7 @@ namespace PatientSystem.Concrete
         public PatientData(Context db)
         {
             this._db = db;
+            int y = 1;
         }
 
 

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Firas\\Desktop\\Patient\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {}
+    "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Firas\\Desktop\\Patient\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {
+    "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Firas\\Desktop\\Patient\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
+        "projectUniqueName": "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
         "projectName": "PatientSystem",
-        "projectPath": "C:\\Users\\Firas\\Desktop\\Patient\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
-        "packagesPath": "C:\\Users\\Firas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Firas\\Desktop\\Patient\\PatientSystem\\PatientSystem\\obj\\",
+        "projectPath": "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
+        "packagesPath": "C:\\Users\\fquzaih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Firas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fquzaih\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -74,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

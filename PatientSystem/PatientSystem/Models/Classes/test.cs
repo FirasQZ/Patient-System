@@ -7,6 +7,5 @@ namespace PatientSystem.Models.Classes
 {
     public class test
     {
-        String test1 = "Test new first branch";
     }
 }

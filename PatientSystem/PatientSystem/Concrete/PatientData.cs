@@ -19,6 +19,7 @@ namespace PatientSystem.Concrete
         {
             this._db = db;
             int y = 1;
+            int x = 2;
         }
 
 

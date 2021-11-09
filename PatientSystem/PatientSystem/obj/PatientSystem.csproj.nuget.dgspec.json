@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {}
+    "C:\\Users\\fquzaih\\Source\\Repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {
+    "C:\\Users\\fquzaih\\Source\\Repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
+        "projectUniqueName": "C:\\Users\\fquzaih\\Source\\Repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
         "projectName": "PatientSystem",
-        "projectPath": "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
+        "projectPath": "C:\\Users\\fquzaih\\Source\\Repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\PatientSystem.csproj",
         "packagesPath": "C:\\Users\\fquzaih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fquzaih\\source\\repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\obj\\",
+        "outputPath": "C:\\Users\\fquzaih\\Source\\Repos\\FirasQZ\\Patient-System\\PatientSystem\\PatientSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fquzaih\\AppData\\Roaming\\NuGet\\NuGet.Config",

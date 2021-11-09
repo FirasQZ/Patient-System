@@ -8,5 +8,6 @@ namespace PatientSystem.Models.Classes
     public class test2
     {
         String a = "Firas 1";
+        String b = "Firas 2";
     }
 }

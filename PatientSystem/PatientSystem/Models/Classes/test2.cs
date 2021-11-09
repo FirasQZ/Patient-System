@@ -9,5 +9,6 @@ namespace PatientSystem.Models.Classes
     {
         String a = "Firas 1";
         String b = "Firas 2";
+        String c = "Firas 3";
     }
 }
